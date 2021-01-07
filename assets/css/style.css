@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap');
+/*  colors */
+
+.color-name-header {
+    background-color: #000000;
+}
+
+.sign-up-now-bg {
+    background-color: #000000;
+}
+
+.color-name-footer {
+    background-color: #000000;
+}
+
+.find-us-footer,
+.footer-social-links a i{
+    color: #fee300;
+}
+
+.header-font-color {
+    color: #fee300;
+}
+
+.sign-up-now {
+    color: #000000;
+    background-color: #fee300;
+}
+
+/*  colors End */
+
+/* paddings/margins/text */
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+/* paddings/margins/text/headings End */
+
+/* Header */
+.name {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+    margin: 0 auto;
+    font-size: 2.5rem;
+}
+
+.description {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    margin: 0 auto;
+}
+
+.gym-logo {
+    font-weight: 800;
+    font-family: 'Nunito', sans-serif;
+    font-size: 3rem;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0 0.5rem 0;
+    margin: 3rem auto;
+}
+
+#nav {
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 0.5rem;
+}
+
+#nav li {
+    display: inline-block;
+}
+
+#nav li a i {
+    color: #fee300;
+}
+
+.menu-list-obj span {
+    width: 100%;
+    padding-left: 0.5rem;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    font-weight: 400;
+    letter-spacing: 2px;
+    color: #fee300;
+}
+
+.sign-up-now {
+    width: 100%;
+    font-weight: 800;
+    font-size: 1.5rem;
+    font-family: 'Nunito', sans-serif;
+    font-style: oblique;
+    border: 0;
+    border-radius: 0;
+}
+
+.btn-info:hover {
+    background-color: #000000;
+    color: #fee300;
+}
+/* Header End */
+/*  Body */
+
+/* Body end */
+/* Hover */
+
+.hvr-sweep-to-top {
+    /* adjust colors to site pallete */
+}
+/* Hover End */
+
+/* Footer */
+
+footer {
+    background-color: black; 
+    min-height: 4rem;
+    margin: 0;
+    padding-top: 1rem;
+}
+.find-us-footer {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    padding-left: 0.5rem;
+    font-size: 1.5rem;    
+}
+.find-us-footer i {
+    padding-left: 0.2rem;
+}
+
+#social-network-list {
+    margin: 0 auto;
+}
+
+.footer-social-links a i {
+    font-size: 1.5rem;
+    padding-top: 0.3rem;
+}
+
+/* Footer End */
+
+/* medias */
+
+@media screen and (min-width:770px) {
+
+
+    .name {
+        font-weight: 800;
+        font-size: 2.5rem;
+        color: #fee300;
+        margin: 0 auto;
+    }
+
+    .description {
+        font-weight: 400;
+        font-size: 1.5rem;
+        color: #fee300;
+        margin: 0 auto;
+    }
+
+    .sign-up-now {
+        width: 50%;
+        margin: 3rem auto;
+        text-align: center;
+        padding: 0;
+        display: inline;
+        font-size: 1rem;
+        border: 0;
+        border-radius: 5%;
+    }
+    .btn-info:hover {
+        background-color: #000000;
+        color: #fee300;
+    }
+}
+
+/* medias End */
