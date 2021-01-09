@@ -81,6 +81,9 @@ In addition, you should mention in this section how your project looks and works
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
+####Static Content checks
+- [W3C HTML Validator](https://validator.w3.org/)
+- [W3C CSS Validator](http://jigsaw.w3.org/css-validator/validator$link)
 
 ## Deployment
 
