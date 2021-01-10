@@ -100,6 +100,8 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ---
 
+---
+
 ## Deployment
 
 site deployed using github-pages. Github pages is enabled on the repostiory settings all the steps are well described [here](https://pages.github.com/). Once code Is commited to master and github-pages is enabled on the repository project will be availble.
