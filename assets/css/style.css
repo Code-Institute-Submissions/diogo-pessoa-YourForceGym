@@ -22,9 +22,10 @@
     color: #fee300;
 }
 
-.sign-up-now {
+.button-color {
     color: #000000;
     background-color: #fee300;
+    border: 1px solid #fee300;
 }
 
 .bg-color-menu-toggle {
@@ -46,6 +47,19 @@
     text-transform: uppercase;
 }
 /* paddings/margins/text/headings End */
+
+.padding-defaults {
+    padding: 0.5rem 0.5rem 0.25rem;
+}
+
+.fonts-default-title {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+}
+
+.fonts-default-body {
+    font-family: 'Yusei Magic', sans-serif;
+}
 
 /* Header */
 .name {
@@ -157,12 +171,26 @@ hr {
 }
 
 /* Body end */
+/* Contact us */
+
+.form-fonts-title  {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+}
+
+.form-fonts-body {
+    font-family: 'Yusei Magic', sans-serif;
+}
+/* contact us End */
 /* Hover */
 
 .hvr-sweep-to-top {
     /* adjust colors to site pallete */
 }
 /* Hover End */
+
+
+
 
 /* Footer */
 
