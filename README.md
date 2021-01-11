@@ -124,6 +124,10 @@ All text content is fictional and authored by [me](https://github.com/diogo-pess
         - [DanceStudio](https://pixabay.com/photos/gym-sports-hall-studio-dance-studio-526996/)
         - [GymFloor](https://pixabay.com/photos/gym-training-sports-fitness-595597/)
         - [CardioFloor](https://pixabay.com/photos/sports-indoor-cycling-fitness-gym-1962574/)
+    - Gallery
+        - video: [Gym Building](https://pixabay.com/videos/school-gym-building-landscape-43735/)
+        - images:
+            - [Dumbells](https://pixabay.com/photos/fitness-weight-lifting-dumbbells-375472/)
 
 ---
 
