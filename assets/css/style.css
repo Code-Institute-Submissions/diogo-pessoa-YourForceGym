@@ -45,6 +45,12 @@
 .uppercase {
     text-transform: uppercase;
 }
+
+h2,h3,h4,h5 {
+    font-family: 'Nunito', sans-serif;
+    margin: 0.25rem;
+
+}
 /* paddings/margins/text/headings End */
 
 .padding-defaults {
@@ -181,6 +187,14 @@ hr {
     font-family: 'Yusei Magic', sans-serif;
 }
 /* contact us End */
+/* Maps */
+.map {
+    width:80%;
+    height:100%;
+    border:0;
+}
+
+/* Maps End */
 /* Hover */
 
 .hvr-sweep-to-top {
