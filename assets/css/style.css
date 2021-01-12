@@ -46,6 +46,7 @@
     text-transform: uppercase;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 h2,h3,h4,h5 {
     font-family: 'Nunito', sans-serif;
@@ -55,6 +56,8 @@ h2,h3,h4,h5 {
 /* paddings/margins/text/headings End */
 =======
 >>>>>>> a4b749a... Gallery finished
+=======
+>>>>>>> a4b749ac030ec065d18cf02696fc52a632c9acc3
 
 .padding-defaults {
     padding: 0.5rem 0.5rem 0.25rem;
@@ -301,9 +304,12 @@ footer {
         font-size: 1rem; 
         padding: 0;
     }
+<<<<<<< HEAD
     .map {
         min-height: 18rem;
     }
+=======
+>>>>>>> a4b749ac030ec065d18cf02696fc52a632c9acc3
 
     /* Gallery */
     .gallery-images {
