@@ -41,11 +41,10 @@
 }
 /*  colors End */
 
-/* paddings/margins/text */
+/* paddings/margins/text/headings */
 .uppercase {
     text-transform: uppercase;
 }
-/* paddings/margins/text/headings End */
 
 .padding-defaults {
     padding: 0.5rem 0.5rem 0.25rem;
@@ -59,6 +58,14 @@
 .fonts-default-body {
     font-family: 'Yusei Magic', sans-serif;
 }
+
+.center-content {
+    margin: 0 auto;
+}
+
+
+/* paddings/margins/text/headings End */
+
 
 /* Header */
 .name {
@@ -179,13 +186,9 @@ hr {
 }
 
 .gallery-images {
-    width: 50%;
+    width: 45%;
 }
 
-.gallery-images-modal {
-    width: 100%;
-
-}
 /*  Gallery End */
 
 /* Contact us */
@@ -282,6 +285,7 @@ footer {
     .gallery-images {
         width: 40%;
     }
+    
     /* Gallery End */
 }
 
