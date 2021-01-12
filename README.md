@@ -116,6 +116,10 @@ Throughout the development I have worked on it locally by, leveraging a good Tex
 
 All text content is fictional and authored by [me](https://github.com/diogo-pessoa).
 
+### sourcecode reference:
+
+- Bootstrap Modal dynamic image loading in Gallery is used from: [Stack Overflow](https://stackoverflow.com/questions/25023199/in-bootstrap-open-enlarge-image-in-modal#25023822), snipped is shared by author [here](https://jsfiddle.net/6CR2H/1/)
+
 ### Media
 
 - The Media content used in this site was obtained from [pixabay](https://pixabay.com/images/search/gym/)
@@ -124,6 +128,12 @@ All text content is fictional and authored by [me](https://github.com/diogo-pess
         - [DanceStudio](https://pixabay.com/photos/gym-sports-hall-studio-dance-studio-526996/)
         - [GymFloor](https://pixabay.com/photos/gym-training-sports-fitness-595597/)
         - [CardioFloor](https://pixabay.com/photos/sports-indoor-cycling-fitness-gym-1962574/)
+    - Gallery
+        - video: [Gym Building](https://pixabay.com/videos/school-gym-building-landscape-43735/)
+        - images:
+            - [Dumbells](https://pixabay.com/photos/fitness-weight-lifting-dumbbells-375472/)
+            - [Free Weights floor](https://pixabay.com/photos/machines-weight-weights-91849/)
+            - [class] (https://pixabay.com/photos/gym-room-fitness-sport-1180062/)
 
 ---
 
