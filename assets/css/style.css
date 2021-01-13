@@ -92,7 +92,7 @@ h2,h3,h4,h5 {
     font-family: 'Nunito', sans-serif;
     font-size: 3rem;
     text-align: center;
-    padding: 0 0.5rem 0;
+    padding: 0 2rem 0;
     margin-bottom: 0.75rem;
     margin-top: 1.5rem;
 }
@@ -111,8 +111,9 @@ h2,h3,h4,h5 {
 .navbar {
     padding: 0;
     width: 100%;
-    
 }
+
+
 
 .navbar-toggler {
     width: 100%;
@@ -157,7 +158,7 @@ h2,h3,h4,h5 {
     border: 1px solid #fee300;
 }
 /* Header End */
-/*  Body */
+/*  Home */
 
 hr {
     margin-top: 0.5rem;
@@ -181,7 +182,7 @@ hr {
     font-weight: 700;
 }
 
-/* Body end */
+/* Home end */
 
 /* Gallery */
 
@@ -220,9 +221,14 @@ hr {
 /* Maps End */
 /* Hover */
 
-.hvr-sweep-to-top {
-    /* adjust colors to site pallete */
+.hvr-sweep-to-top::before {
+    background-color: #fee300;
 }
+
+.hvr-sweep-to-top:active, .hvr-sweep-to-top:focus, .hvr-sweep-to-top:hover {
+    color: #000000;
+}
+
 /* Hover End */
 
 
@@ -259,7 +265,7 @@ footer {
 
 /* medias */
 
-@media screen and (min-width:500px) {
+@media screen and (min-width:546px) {
 
 
     .name {
@@ -285,21 +291,28 @@ footer {
         width: 70%;
     }
 
-    .gym-logo {
-        margin-bottom: 0rem;
-    }
-
     .nav-item {
         height: 100%;
         width: 60%;
         border-bottom: 0;
         font-size: 1rem; 
         padding: 0;
+        text-align: center;
+    }
+
+    .nav-link {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
     }
     .map {
         min-height: 18rem;
     }
 
+    .navbar-expand-sm .navbar-collapse {
+        display: block!important;
+        height: -webkit-fill-available;
+        height: -moz-fit-content;
+    }
     .gallery-images {
         width: 40%;
     }
