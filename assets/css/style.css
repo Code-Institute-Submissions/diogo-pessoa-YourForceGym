@@ -157,7 +157,7 @@ h2,h3,h4,h5 {
     border: 1px solid #fee300;
 }
 /* Header End */
-/*  Body */
+/*  Home */
 
 hr {
     margin-top: 0.5rem;
@@ -181,7 +181,7 @@ hr {
     font-weight: 700;
 }
 
-/* Body end */
+/* Home end */
 
 /* Gallery */
 
@@ -259,7 +259,7 @@ footer {
 
 /* medias */
 
-@media screen and (min-width:500px) {
+@media screen and (min-width:546px) {
 
 
     .name {
