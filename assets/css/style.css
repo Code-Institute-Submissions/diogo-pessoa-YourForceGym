@@ -199,14 +199,10 @@ hr {
 
 /* Contact us */
 
-.form-fonts-title  {
-    font-family: 'Nunito', sans-serif;
-    font-weight: 700;
+.form-formatting {
+    padding-bottom: 1rem;
 }
 
-.form-fonts-body {
-    font-family: 'Yusei Magic', sans-serif;
-}
 /* contact us End */
 /* Maps */
 .map {
@@ -265,7 +261,7 @@ footer {
 
 /* medias */
 
-@media screen and (min-width:546px) {
+@media screen and (min-width:768px) {
 
 
     .name {
@@ -315,6 +311,10 @@ footer {
     }
     .gallery-images {
         width: 40%;
+    }
+    
+    .contact-us-message {
+        margin: 0 auto;
     }
 }
 
