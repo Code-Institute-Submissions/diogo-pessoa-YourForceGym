@@ -95,7 +95,6 @@ Tested both on Browser developer tools &  available devices.
 - [W3C HTML Validator](https://validator.w3.org/)
 - [W3C CSS Validator](http://jigsaw.w3.org/css-validator/validator$link)
 
----
 
 ---
 
@@ -103,7 +102,10 @@ Tested both on Browser developer tools &  available devices.
 
 site deployed using github-pages. Github pages is enabled on the repostiory settings all the steps are well described [here](https://pages.github.com/). Once code Is commited to master and github-pages is enabled on the repository project will be availble.
 
-Throughout the development I have worked on it locally by, leveraging a good Text editor [Vscode](https://code.visualstudio.com/) and a browser (in my case) chrome should. That suffice to run this project locally.
+## local development
+
+Throughout the development I have worked on it locally by, leveraging a good Text editor [Vscode](https://code.visualstudio.com/) and a browser (in my case) chrome should suffice to run this project locally.
+
 
 ---
 
