@@ -81,6 +81,7 @@ h2,h3,h4,h5 {
     font-weight: 800;
     margin: 0 auto;
     font-size: 2.5rem;
+    padding-top: 1rem;
 }
 
 .description {
@@ -220,12 +221,16 @@ hr {
 /* Maps End */
 /* Hover */
 
-.hvr-sweep-to-top::before {
+a:link {
+    text-decoration: none;
+  }
+
+.hvr-grow::before {
     background-color: #fee300;
 }
 
-.hvr-sweep-to-top:active, .hvr-sweep-to-top:focus, .hvr-sweep-to-top:hover {
-    color: #000000;
+.hvr-grow:active, .hvr-grow:focus, .hvr-grow:hover {
+    color: #fee300;
 }
 
 /* Hover End */
