@@ -55,6 +55,8 @@ Manual site navigation on different screen sizes and browsers.
   - `find-us` link redirects to Visit-us page. 
     - bug found link is pointing to gallery;
     - fix in: [User Story](https://trello.com/c/VTyzQ7RH)
+  - Reducing brigthness on yellow on site, navigate to each page and review `buttons` and `NavBar` 
+    - [User Story](https://trello.com/c/aIfWdOaC)
 
 ### Static Content checks
 - [W3C HTML Validator](https://validator.w3.org/)

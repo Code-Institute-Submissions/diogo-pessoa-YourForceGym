@@ -17,21 +17,21 @@
 
 .find-us-footer,
 .footer-social-links a i {
-    color: #fee300;
+    color: #ebc108;
 }
 
 .header-font-color {
-    color: #fee300;
+    color: #ebc108;
 }
 
 .button-color {
     color: #000000;
-    background-color: #fee300;
-    border: 1px solid #fee300;
+    background-color: #ebc108;
+    border: 1px solid #ebc108;
 }
 
 .bg-color-menu-toggle {
-    background-color: #fee300;
+    background-color: #ebc108;
 }
 
 
@@ -160,25 +160,25 @@ h5 {
 
 .btn-info:hover {
     background-color: #000000;
-    color: #fee300;
-    border: 1px solid #fee300;
+    color: #ebc108;
+    border: 1px solid #ebc108;
 }
 
 .btn-info:not(:disabled):not(.disabled).active,
 .btn-info:not(:disabled):not(.disabled):active,
 .show>.btn-info.dropdown-toggle {
-    color: #fee300;
+    color: #ebc108;
     background-color: #000000;
     border-color: #000000;
-    border: 1px solid #fee300;
+    border: 1px solid #ebc108;
 }
 
 .navbar-dark .navbar-nav .nav-link:focus,
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: #fee300;
+    color: #ebc108;
     background-color: #000000;
     border-color: #000000;
-    border: 1px solid #fee300;
+    border: 1px solid #ebc108;
 }
 
 
@@ -189,7 +189,7 @@ h5 {
 
 hr {
     margin-top: 0.5rem;
-    border: 0.25rem solid #fee300;
+    border: 0.25rem solid #ebc108;
     width: 20%;
 }
 
@@ -260,13 +260,13 @@ a:link {
 }
 
 .hvr-grow::before {
-    background-color: #fee300;
+    background-color: #ebc108;
 }
 
 .hvr-grow:active,
 .hvr-grow:focus,
 .hvr-grow:hover {
-    color: #fee300;
+    color: #ebc108;
 }
 
 
@@ -312,13 +312,13 @@ footer {
     .name {
         font-weight: 800;
         font-size: 2.5rem;
-        color: #fee300;
+        color: #ebc108;
         margin: 0 auto;
     }
     .description {
         font-weight: 400;
         font-size: 1.5rem;
-        color: #fee300;
+        color: #ebc108;
         margin: 0 auto;
     }
     .sign-up-now {
