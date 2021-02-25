@@ -173,6 +173,21 @@ h5 {
     border: 1px solid #ebc108;
 }
 
+/* Sticky NavBar on Screen top on scroll Events */
+.content {
+    padding: 1rem;
+}
+
+.sticky {
+    position: fixed;
+    top: 1.5rem;
+    width: 100%;
+    z-index:100;
+}
+
+.sticky + .content {
+    padding-top: 1rem;
+}
 
 /* Header End */
 
@@ -301,6 +316,11 @@ footer {
 /* medias */
 
 @media screen and (min-width:768px) {
+    
+    .sticky {
+        top: 0;
+    }
+
     .name {
         font-weight: 800;
         font-size: 2.5rem;

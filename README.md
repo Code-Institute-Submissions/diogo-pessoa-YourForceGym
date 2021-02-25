@@ -29,6 +29,8 @@ This is a Responsive website, that provides a glancing experience on this fictio
  
 - Gallery with video tour and images of the gym space.
 
+- NavBar and CallToAction button sticky to page top, when scroll down
+
 ### Features Left to Implement
 - About us page with gym information and trainers description
 
@@ -67,6 +69,11 @@ Manual site navigation on different screen sizes and browsers.
     - *Found while testing* while hovering on `h1` Your Force Gym, animation is blue, using browser default.
       - fix add `hvr-grow` class to element.
     - [User Story](https://trello.com/c/YhaebYM8)
+  - Sticky NavBar to ScreenTop onscroll.
+    - *Test* navigate to all pages Scroll down confirm expected behaviour
+    - *Discovered while testing* on col-sm(iphone screen) contact.html page doesn't scroll properly, 
+      - Create [User Story](https://trello.com/c/Co6vqJug) to track bug
+        - Fixed by adding `class=content` to section in body
 
 ### Static Content checks
 - [W3C HTML Validator](https://validator.w3.org/)
@@ -117,3 +124,5 @@ All text content is fictional and authored by [me](https://github.com/diogo-pess
 #### source code reference
 - Bootstrap Modal dynamic image loading in Gallery uses code from: 
 [Stack Overflow](https://stackoverflow.com/questions/25023199/in-bootstrap-open-enlarge-image-in-modal#25023822). Author shared Snippet [here](https://jsfiddle.net/6CR2H/1/)
+
+- NavBar Sticky to top feature implemented from [w3schools](//https://www.w3schools.com/howto/howto_js_navbar_sticky.asp)
