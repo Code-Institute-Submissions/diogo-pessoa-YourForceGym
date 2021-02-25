@@ -60,6 +60,13 @@ Manual site navigation on different screen sizes and browsers.
   - Reducing brigthness on yellow on site, 
     - *Test* navigate to each page and review `buttons` and `NavBar` 
     - [User Story](https://trello.com/c/aIfWdOaC)
+  - Refactoring Header Section
+    - Simplify grid Structure
+    - reduce amount of space used by header
+    - *Test* visit Page on different screen sizes confirm navigation is natural and responsive, no elements break
+    - *Found while testing* while hovering on `h1` Your Force Gym, animation is blue, using browser default.
+      - fix add `hvr-grow` class to element.
+    - [User Story](https://trello.com/c/YhaebYM8)
 
 ### Static Content checks
 - [W3C HTML Validator](https://validator.w3.org/)
