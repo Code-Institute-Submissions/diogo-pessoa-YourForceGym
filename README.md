@@ -53,9 +53,12 @@ Manual site navigation on different screen sizes and browsers.
     - [User Story](https://trello.com/c/5GlSVa9d)
     - From every page on project click on every social network link on the footer.
   - `find-us` link redirects to Visit-us page. 
-    - bug found link is pointing to gallery;
+    - bug found anchor has no href destination;
+    - *Test* Navigate to each page in Site click `Find us` in footer.
+      - find us page loads in same tab.
     - fix in: [User Story](https://trello.com/c/VTyzQ7RH)
-  - Reducing brigthness on yellow on site, navigate to each page and review `buttons` and `NavBar` 
+  - Reducing brigthness on yellow on site, 
+    - *Test* navigate to each page and review `buttons` and `NavBar` 
     - [User Story](https://trello.com/c/aIfWdOaC)
 
 ### Static Content checks
