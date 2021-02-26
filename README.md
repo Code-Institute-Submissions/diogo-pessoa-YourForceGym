@@ -7,7 +7,7 @@ A catching `Gallery` and  `About Us` section is available on the menu.
 For the impatient user, there's a `find-us` link for a navigation map. 
 
 ## Project Work 
-Project Board & and User Stories on [Trello](https://trello.com/b/IdBaRAf3) 
+Project Board & and User Stories on [Trello](https://trello.com/b/dE5REmeS) 
 
 ## UX 
 Designed with a mobile-first approach. The emphasis is to take advantage of the gym's member's peer recommendation. Allowing new users to check the gym on the spot from anywhere. It aims to provide the user with clear reasons to sign-up with the least possible navigation time. 
