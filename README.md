@@ -90,7 +90,9 @@ Manual site navigation on different screen sizes and browsers.
       - timetable PDF button on about page
       - clicking on `check timetable` button open pdf on new tab
         - [User story](https://trello.com/c/VbgE9nBl)
-    
+    - About Gym 
+      - Body font-size was too small
+        - fix return to default size. 
 
 ### Static Content checks
 - [W3C HTML Validator](https://validator.w3.org/)
