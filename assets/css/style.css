@@ -29,19 +29,32 @@
     background-color: #f5b301;
     border: 1px solid #f5b301;
 }
+.button-color-revert {
+
+    color: #f5b301;
+    background-color: #000000;
+    border: 1px solid #000000;
+
+}
 
 .bg-color-menu-toggle {
     background-color: #f5b301;
 }
 
+.bg-box-1 {
+    background-color: #f5b301;
+    color: black;
+    border-bottom: 1px solid black;
+}
+
 .bg-box-2 {
     background-color: #f5b301;
-    color: #000000;
+    color: #000;
 }
 
 .bg-box-3 {
-    background-color: #363b42;
-    color: white;
+    background-color: black;
+    color: #f5b301;
 }
 
 /* override on bootstrap navbar elements */
@@ -90,6 +103,7 @@ h5 {
 
 .fonts-default-body {
     font-family: 'Yusei Magic', sans-serif;
+    font-size: 0.8rem;
 }
 
 .center-content {
@@ -328,19 +342,18 @@ footer {
 }
 .edged-borders-left {
     border: 0.5rem solid #f5b301;
-    border-left: 1rem solid white; 
+    border-right: 1rem solid white; 
+    border-bottom: 0.5rem solid white;
 }
 
 .trainer-1 {
-        border: 0.5rem solid white; 
-        border-top: 1rem solid #f5b301; 
-        border-right: 1rem solid #f5b301; 
+    border: 0.5rem solid #f5b301;
+    border-right: 1rem solid white; 
 }
 
 .trainer-2 {
-    border: 0.5rem solid #f5b301;
-    border-left: 1rem solid white; 
-    border-bottom: 1rem solid white; 
+    border-top: 0.5rem solid white; 
+    border-left: 1rem solid #f5b301; 
 }
 /* About End */
 
