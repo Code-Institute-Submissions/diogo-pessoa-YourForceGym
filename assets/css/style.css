@@ -335,27 +335,6 @@ footer {
 
 /* Footer End */
 
-/* About */
-.edged-borders-right {
-    border: 0.5rem solid white; 
-    border-right: 1rem solid #f5b301; 
-}
-.edged-borders-left {
-    border: 0.5rem solid #f5b301;
-    border-right: 1rem solid white; 
-    border-bottom: 0.5rem solid white;
-}
-
-.trainer-1 {
-    border: 0.5rem solid #f5b301;
-    border-right: 1rem solid white; 
-}
-
-.trainer-2 {
-    border-top: 0.5rem solid white; 
-    border-left: 1rem solid #f5b301; 
-}
-/* About End */
 
 /* medias */
 
