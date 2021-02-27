@@ -35,14 +35,11 @@ This is a Responsive website, that provides a glancing experience on this fictio
   - About Gym section 
     - [User story](https://trello.com/c/7c3zaY57)
   - classes Section
-    - - [User story](https://trello.com/c/hdx93v1C) 
+    - [User story](https://trello.com/c/hdx93v1C) 
   - Meet trainers section
   - [User Story](https://trello.com/c/TDKGewaw)
 - classes Timetable:
   - [User Story](https://trello.com/c/VbgE9nBl)
-
-### Features Left to Implement
-- About us page with gym information and trainers description
 
 ## Technologies Used 
 This Project is built with HTML5/CSS3. Extra features implemented with frameworks listed here:
@@ -137,6 +134,8 @@ All text content is fictional and authored by [me](https://github.com/diogo-pess
       - [Free Weights floor](https://pixabay.com/photos/machines-weight-weights-91849/) 
       - [class](https://pixabay.com/photos/gym-room-fitness-sport-1180062/)  
   - About
+    - About Gym
+      - [trainer helping](https://pixabay.com/photos/woman-gym-person-1730325/)
     - Trainers
       - [Jack](https://pixabay.com/photos/fitness-guy-black-exercise-465203/)
       - [Meg](https://pixabay.com/photos/abs-athlete-biceps-blonde-body-1850926/)
