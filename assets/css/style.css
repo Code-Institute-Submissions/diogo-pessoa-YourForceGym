@@ -189,7 +189,7 @@ h5 {
 
 /* Sticky NavBar on Screen top on scroll Events */
 .content {
-    padding: 1rem;
+    padding: 0;
 }
 
 .sticky {
