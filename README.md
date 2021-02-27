@@ -31,6 +31,16 @@ This is a Responsive website, that provides a glancing experience on this fictio
 
 - NavBar and CallToAction button sticky to page top, when scroll down
 
+- About Page:
+  - About Gym section 
+    - [User story](https://trello.com/c/7c3zaY57)
+  - classes Section
+    - - [User story](https://trello.com/c/hdx93v1C) 
+  - Meet trainers section
+  - [User Story](https://trello.com/c/TDKGewaw)
+- classes Timetable:
+  - [User Story](https://trello.com/c/VbgE9nBl)
+
 ### Features Left to Implement
 - About us page with gym information and trainers description
 
@@ -74,6 +84,16 @@ Manual site navigation on different screen sizes and browsers.
     - *Discovered while testing* on col-sm(iphone screen) contact.html page doesn't scroll properly, 
       - Create [User Story](https://trello.com/c/Co6vqJug) to track bug
         - Fixed by adding `class=content` to section in body
+  - About Page 
+    - [User Story](https://trello.com/c/Vt9HQP5B)
+      - is responsive on all tested screen sizes
+      - NavBar sticks to top of page when scroll down happens
+    - Classes Section
+      - [User Story](https://trello.com/c/hdx93v1C)
+      - timetable PDF button on about page
+      - clicking on `check timetable` button open pdf on new tab
+        - [User story](https://trello.com/c/VbgE9nBl)
+    
 
 ### Static Content checks
 - [W3C HTML Validator](https://validator.w3.org/)
