@@ -14,10 +14,10 @@ Designed with a mobile-first approach. The emphasis is to take advantage of the 
 Yet there are alternatives built-in for users looking to know more before making a decision.
 
 ### Mobile view 
-![Mobile View image](https://github.com/diogo-pessoa/MyBucketList/blob/master/wireframes/MobileView.png) 
+![Mobile View image](https://github.com/diogo-pessoa/YourForceGym/blob/master/readmeImageContent/MobileView.png) 
 
 ### Desktop view 
-![Desktop View image](https://github.com/diogo-pessoa/MyBucketList/blob/master/wireframes/DesktopView.png) 
+![Desktop View image](https://github.com/diogo-pessoa/YourForceGym/blob/master/readmeImageContent/DesktopView.png) 
 
 ## Features 
 This is a Responsive website, that provides a glancing experience on this fictional gym. The home page aims to provide the user with a quick view of the gym. The first section available is a carousel with images of the facilities. This followed by a friendly list of benefits and reasons to join the club. 
@@ -84,7 +84,7 @@ Site deployed using github-pages.
 - visit Repository Settings
   - In Section `Github-pages`, enable it.
   - Set Branch to Master and path (root).
-![github-pages-image](https://github.com/diogo-pessoa/MyBucketList/blob/master/readmeImageContent/Github-pages.png)
+![github-pages-image](https://github.com/diogo-pessoa/YourForceGym/blob/master/readmeImageContent/Github-pages.png)
 It can take a couple of minutes for content committed to master to be available.
 Github-pages [reference](https://pages.github.com/)
 
