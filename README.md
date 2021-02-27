@@ -96,6 +96,9 @@ Manual site navigation on different screen sizes and browsers.
     - Pixalated carousel images on large screens:
       - [User story](https://trello.com/c/9PVeKrEK)
         - replaced images with higher resolution
+    - Gallery 
+      - Discovered while testing
+        - re-used image from carousel was updated, causing one of the gallery images to go missing
 ### Static Content checks
 - [W3C HTML Validator](https://validator.w3.org/)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
