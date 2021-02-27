@@ -93,7 +93,9 @@ Manual site navigation on different screen sizes and browsers.
     - About Gym 
       - Body font-size was too small
         - fix return to default size. 
-
+    - Pixalated carousel images on large screens:
+      - [User story](https://trello.com/c/9PVeKrEK)
+        - replaced images with higher resolution
 ### Static Content checks
 - [W3C HTML Validator](https://validator.w3.org/)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
