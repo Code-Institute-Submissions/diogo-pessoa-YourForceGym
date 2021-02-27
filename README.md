@@ -77,7 +77,7 @@ Manual site navigation on different screen sizes and browsers.
 
 ### Static Content checks
 - [W3C HTML Validator](https://validator.w3.org/)
-- [W3C CSS Validator](http://jigsaw.w3.org/css-validator/validator$link)
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
 
 ## Deployment 
 Site deployed using github-pages. 
