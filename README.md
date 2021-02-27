@@ -116,6 +116,10 @@ All text content is fictional and authored by [me](https://github.com/diogo-pess
       - [Dumbells](https://pixabay.com/photos/fitness-weight-lifting-dumbbells-375472/) 
       - [Free Weights floor](https://pixabay.com/photos/machines-weight-weights-91849/) 
       - [class](https://pixabay.com/photos/gym-room-fitness-sport-1180062/)  
+  - About
+    - Trainers
+      - [Jack](https://pixabay.com/photos/fitness-guy-black-exercise-465203/)
+      - [Meg](https://pixabay.com/photos/abs-athlete-biceps-blonde-body-1850926/)
 
 ### Acknowledgements
 - Took inspiration on the flat page listed here. [w3layouts](https://w3layouts.com/template/gym-workout-sports-category-flat-bootstrap-responsive-web-template/) 
