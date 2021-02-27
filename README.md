@@ -31,8 +31,15 @@ This is a Responsive website, that provides a glancing experience on this fictio
 
 - NavBar and CallToAction button sticky to page top, when scroll down
 
-### Features Left to Implement
-- About us page with gym information and trainers description
+- About Page:
+  - About Gym section 
+    - [User story](https://trello.com/c/7c3zaY57)
+  - classes Section
+    - [User story](https://trello.com/c/hdx93v1C) 
+  - Meet trainers section
+  - [User Story](https://trello.com/c/TDKGewaw)
+- classes Timetable:
+  - [User Story](https://trello.com/c/VbgE9nBl)
 
 ## Technologies Used 
 This Project is built with HTML5/CSS3. Extra features implemented with frameworks listed here:
@@ -74,6 +81,16 @@ Manual site navigation on different screen sizes and browsers.
     - *Discovered while testing* on col-sm(iphone screen) contact.html page doesn't scroll properly, 
       - Create [User Story](https://trello.com/c/Co6vqJug) to track bug
         - Fixed by adding `class=content` to section in body
+  - About Page 
+    - [User Story](https://trello.com/c/Vt9HQP5B)
+      - is responsive on all tested screen sizes
+      - NavBar sticks to top of page when scroll down happens
+    - Classes Section
+      - [User Story](https://trello.com/c/hdx93v1C)
+      - timetable PDF button on about page
+      - clicking on `check timetable` button open pdf on new tab
+        - [User story](https://trello.com/c/VbgE9nBl)
+    
 
 ### Static Content checks
 - [W3C HTML Validator](https://validator.w3.org/)
@@ -116,6 +133,12 @@ All text content is fictional and authored by [me](https://github.com/diogo-pess
       - [Dumbells](https://pixabay.com/photos/fitness-weight-lifting-dumbbells-375472/) 
       - [Free Weights floor](https://pixabay.com/photos/machines-weight-weights-91849/) 
       - [class](https://pixabay.com/photos/gym-room-fitness-sport-1180062/)  
+  - About
+    - About Gym
+      - [trainer helping](https://pixabay.com/photos/woman-gym-person-1730325/)
+    - Trainers
+      - [Jack](https://pixabay.com/photos/fitness-guy-black-exercise-465203/)
+      - [Meg](https://pixabay.com/photos/abs-athlete-biceps-blonde-body-1850926/)
 
 ### Acknowledgements
 - Took inspiration on the flat page listed here. [w3layouts](https://w3layouts.com/template/gym-workout-sports-category-flat-bootstrap-responsive-web-template/) 
