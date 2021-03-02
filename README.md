@@ -6,9 +6,6 @@ This project aims to provide a responsive web-page to create an online presence 
 A catching `Gallery` and  `About Us` section is available on the menu. 
 For the impatient user, there's a `find-us` link for a navigation map. 
 
-## Project Work 
-Project Board & and User Stories on [Trello](https://trello.com/b/dE5REmeS) 
-
 ## UX 
 Designed with a mobile-first approach. The emphasis is to take advantage of the gym's member's peer recommendation. Allowing new users to check the gym on the spot from anywhere. It aims to provide the user with clear reasons to sign-up with the least possible navigation time. 
 Yet there are alternatives built-in for users looking to know more before making a decision.
@@ -32,21 +29,27 @@ This is a Responsive website, that provides a glancing experience on this fictio
 - NavBar and CallToAction button sticky to page top, when scroll down
 
 - About Page:
-  - About Gym section 
-    - [User story](https://trello.com/c/7c3zaY57)
+    - About Gym  
+
   - classes Section
-    - [User story](https://trello.com/c/hdx93v1C) 
+    - Timetable in PDF anchor element opening on new tab availble to the user 
+    - Classes list and brief description
+  
   - Meet trainers section
-  - [User Story](https://trello.com/c/TDKGewaw)
-- classes Timetable:
-  - [User Story](https://trello.com/c/VbgE9nBl)
+    - Trainers section with Bio and Image.
 
 ## Technologies Used 
 This Project is built with HTML5/CSS3. Extra features implemented with frameworks listed here:
-- [Bootstrap](https://getbootstrap.com/)  - Good grid system
-- [hover.css](https://ianlunn.github.io/Hover/) - Adding hover effects
-- [font awesome](https://fontawesome.com/) - Good selection of Icons.
-- [GitHub Pages](https://pages.github.com/) - Deploy 
+- [Bootstrap](https://getbootstrap.com/)
+- [hover.css](https://ianlunn.github.io/Hover/) 
+ - Adding hover effects
+- [font awesome](https://fontawesome.com/) 
+    - Good selection of Icons.
+- [GitHub Pages](https://pages.github.com/) 
+    - Deploy 
+- [balsamiq](https://balsamiq.com/)
+    - to Build wireframes
+- [Google Fonts](https://fonts.google.com/) 
 
 ## Testing
 
@@ -57,7 +60,8 @@ Site deployed using github-pages.
 - visit Repository Settings
   - In Section `Github-pages`, enable it.
   - Set Branch to Master and path (root).
-![github-pages-image](https://github.com/diogo-pessoa/YourForceGym/blob/master/readme-files/deployment/Github-pages.png)
+  - ![github-pages-image](https://github.com/diogo-pessoa/YourForceGym/blob/master/readme-files/deployment-images/Github-pages.png)
+
 It can take a couple of minutes for content committed to master to be available.
 Github-pages [reference](https://pages.github.com/)
 
