@@ -11,10 +11,20 @@ Designed with a mobile-first approach. The emphasis is to take advantage of the 
 Yet there are alternatives built-in for users looking to know more before making a decision.
 
 ### Mobile view 
-[Mobile View image](https://github.com/diogo-pessoa/YourForceGym/blob/master/wireframes/mobile/MobileView.png) 
+
+1. [Home](https://github.com/diogo-pessoa/YourForceGym/blob/master/wireframes/mobile/home_mobile.png)
+2. [Gallery](https://github.com/diogo-pessoa/YourForceGym/blob/master/wireframes/mobile/gallery_mobile.png)
+3. [Find-us](https://github.com/diogo-pessoa/YourForceGym/blob/master/wireframes/mobile/findus_mobile.png)
+4. [Contact](https://github.com/diogo-pessoa/YourForceGym/blob/master/wireframes/mobile/contact_mobile.png)
+5. [About](https://github.com/diogo-pessoa/YourForceGym/blob/master/wireframes/mobile/about_mobile.png)
 
 ### Desktop view 
-[Desktop View image](https://github.com/diogo-pessoa/YourForceGym/blob/master/wireframes/desktop/DesktopView.png) 
+
+1. [Home](https://github.com/diogo-pessoa/YourForceGym/blob/master/wireframes/mobile/home_desktop.png)
+2. [Gallery](https://github.com/diogo-pessoa/YourForceGym/blob/master/wireframes/mobile/gallery_desktop.png)
+3. [Find-us](https://github.com/diogo-pessoa/YourForceGym/blob/master/wireframes/mobile/findus_desktop.png)
+4. [Contact](https://github.com/diogo-pessoa/YourForceGym/blob/master/wireframes/mobile/contact_desktop.png)
+5. [About](https://github.com/diogo-pessoa/YourForceGym/blob/master/wireframes/mobile/about_about.png)
 
 ## Features 
 This is a Responsive website, that provides a glancing experience on this fictional gym. The home page aims to provide the user with a quick view of the gym. The first section available is a carousel with images of the facilities. This followed by a friendly list of benefits and reasons to join the club. 
