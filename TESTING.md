@@ -50,13 +50,13 @@ Notes:
 
 1. Social Media Footer Links 
    
-   1.1 **User Story**, as a User I want external links to open on a new tab. 
+   1.1 As a User I want external links to open on a new tab. 
 
    1.2 **Test** From every page on project, navigate to footer and click on every social network anchor icon. Make sure all open right path in a new tab.
 
 2. Refactoring Header Section
     
-    2.1 [User Story](https://trello.com/c/YhaebYM8)
+    2.1 As a Developer I want a cleaner header section on pages, having a aligned navbar 
     
     2.2 Simplify grid Structure
     
@@ -110,7 +110,7 @@ Notes:
     2.3 **Fix**: update the href attribute from element with proper `findus.html` path. Removed `target="_blank"` from anchor element.
 3. Reducing brigthness on yellow on site.
     
-    3.1 User story, as a developer I want a tone of yellow that keeps a good contrast with black, but is not to bright.
+    3.1 As a developer I want a tone of yellow that keeps a good contrast with black, but is not to bright.
     
     3.2 *Test* navigate to each page and review `buttons` and `NavBar` all have respect the color scheme.
 
