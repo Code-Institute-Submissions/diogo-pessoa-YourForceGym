@@ -53,7 +53,7 @@ This Project is built with HTML5/CSS3. Extra features implemented with framework
 
 ## Testing
 
-1. [testing.md](https://github.com/diogo-pessoa/YourForceGym/blob/master/testing.md)
+1. [testing.md](https://github.com/diogo-pessoa/YourForceGym/blob/master/TESTING.md)
 
 ## Deployment 
 Site deployed using github-pages. 
@@ -66,10 +66,10 @@ It can take a couple of minutes for content committed to master to be available.
 Github-pages [reference](https://pages.github.com/)
 
 ## local development 
-- Local Development
-  -  Code editing with text editor [Vscode](https://code.visualstudio.com/). 
-- Runtime environment
-  - Execute code by loading page from local files through a web browser of choice (ex: Chrome or Firefox). Reloading page after changes on source code.
+- Clone this Repository from github
+- Edit code with an editor of choice  ex:[Vscode](https://code.visualstudio.com/). 
+- To execute code locally open a web browser of choice (ex: Chrome) and use the schema `file://<path to local files/index.html> `.
+- Don't forget to reload page after changes on source code.
  
 ## Credits 
 ### Content 
