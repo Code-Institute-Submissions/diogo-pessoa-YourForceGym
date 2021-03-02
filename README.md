@@ -14,10 +14,10 @@ Designed with a mobile-first approach. The emphasis is to take advantage of the 
 Yet there are alternatives built-in for users looking to know more before making a decision.
 
 ### Mobile view 
-![Mobile View image](https://github.com/diogo-pessoa/YourForceGym/blob/master/readmeImageContent/MobileView.png) 
+[Mobile View image](https://github.com/diogo-pessoa/YourForceGym/blob/master/wireframes/mobile/MobileView.png) 
 
 ### Desktop view 
-![Desktop View image](https://github.com/diogo-pessoa/YourForceGym/blob/master/readmeImageContent/DesktopView.png) 
+[Desktop View image](https://github.com/diogo-pessoa/YourForceGym/blob/master/wireframes/desktop/DesktopView.png) 
 
 ## Features 
 This is a Responsive website, that provides a glancing experience on this fictional gym. The home page aims to provide the user with a quick view of the gym. The first section available is a carousel with images of the facilities. This followed by a friendly list of benefits and reasons to join the club. 
@@ -49,66 +49,15 @@ This Project is built with HTML5/CSS3. Extra features implemented with framework
 - [GitHub Pages](https://pages.github.com/) - Deploy 
 
 ## Testing
-Manual site navigation on different screen sizes and browsers.
-- Selected browsers were Firefox and Chrome.
-- Screen sizes tested:
-  - col-sm - Iphone6/7/8: 375px x667px col-md 
-  - Ipad: 768px x 1024px col-lg 
-  - laptop: >960px x >600px Tested both on Browser developer tools & available devices. 
 
-### Manual navigation tests
-- Footer Links 
-  - Social media links all redirect proper service Provider and open a new tab.
-    - [User Story](https://trello.com/c/5GlSVa9d)
-    - *Test* From every page on project, navigate to footer and click on every social network anchor icon. Make sure all open right path in a new tab.
-  - `find-us` link redirects to Visit-us page. 
-    - bug found anchor has no href destination;
-    - *Test* Navigate to each page in Site click `Find us` in footer.
-      - find us page loads in same tab.
-    - fix in: [User Story](https://trello.com/c/VTyzQ7RH)
-  - Reducing brigthness on yellow on site, 
-    - *Test* navigate to each page and review `buttons` and `NavBar` 
-    - [User Story](https://trello.com/c/aIfWdOaC)
-  - Refactoring Header Section
-    - Simplify grid Structure
-    - reduce amount of space used by header
-    - *Test* visit Page on different screen sizes confirm navigation is natural and responsive, no elements break
-    - *Found while testing* while hovering on `h1` Your Force Gym, animation is blue, using browser default.
-      - fix add `hvr-grow` class to element.
-    - [User Story](https://trello.com/c/YhaebYM8)
-  - Sticky NavBar to ScreenTop onscroll.
-    - *Test* navigate to all pages Scroll down confirm expected behaviour
-    - *Discovered while testing* on col-sm(iphone screen) contact.html page doesn't scroll properly, 
-      - Create [User Story](https://trello.com/c/Co6vqJug) to track bug
-        - Fixed by adding `class=content` to section in body
-  - About Page 
-    - [User Story](https://trello.com/c/Vt9HQP5B)
-      - is responsive on all tested screen sizes
-      - NavBar sticks to top of page when scroll down happens
-    - Classes Section
-      - [User Story](https://trello.com/c/hdx93v1C)
-      - timetable PDF button on about page
-      - clicking on `check timetable` button open pdf on new tab
-        - [User story](https://trello.com/c/VbgE9nBl)
-    - About Gym 
-      - Body font-size was too small
-        - fix return to default size. 
-    - Pixalated carousel images on large screens:
-      - [User story](https://trello.com/c/9PVeKrEK)
-        - replaced images with higher resolution
-    - Gallery 
-      - Discovered while testing
-        - re-used image from carousel was updated, causing one of the gallery images to go missing
-### Static Content checks
-- [W3C HTML Validator](https://validator.w3.org/)
-- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+1. [testing.md](https://github.com/diogo-pessoa/YourForceGym/blob/master/testing.md)
 
 ## Deployment 
 Site deployed using github-pages. 
 - visit Repository Settings
   - In Section `Github-pages`, enable it.
   - Set Branch to Master and path (root).
-![github-pages-image](https://github.com/diogo-pessoa/YourForceGym/blob/master/readmeImageContent/Github-pages.png)
+![github-pages-image](https://github.com/diogo-pessoa/YourForceGym/blob/master/readme-files/deployment/Github-pages.png)
 It can take a couple of minutes for content committed to master to be available.
 Github-pages [reference](https://pages.github.com/)
 
