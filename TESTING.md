@@ -8,9 +8,8 @@
 | File | Validator check  | screenshot| 
 |---|---|---|
 | index.html | ok | |
-| gallery.html | ok | |
-| findus.html |  ok ||
-| contact.html |  ok | [contact.html](https://github.com/diogo-pessoa/YourForceGym/blob/master/readme-files/testing/validator/contact_validator.png|
+| gallery.html | ok | [contact.html](https://github.com/diogo-pessoa/YourForceGym/blob/master/readme-files/testing/validator/gallery_validator.png)|
+| contact.html |  ok | [contact.html](https://github.com/diogo-pessoa/YourForceGym/blob/master/readme-files/testing/validator/contact_validator.png)|
 | about.html | ok |[about.html](https://github.com/diogo-pessoa/YourForceGym/blob/master/readme-files/testing/validator/about_validator.png)|
 
 
@@ -26,9 +25,9 @@
 
 ### Responsiveness
 
-| Device | Screen Size  | Home  | Gallery |  Find Us | Contact | About |
+| Device | Screen Size  | Home  | Gallery |  Contact | About |
 |---|---|---|---|---|---|---|
-| Iphone5 | 320px/568px | not_ok+ | not_ok**+ | not_ok+ | ok | ok |
+| Iphone5 | 320px/568px | not_ok+ | ok | ok | ok |
 | Iphone6 | 375px/667px | ok | ok | ok | ok | ok |
 | Ipad | 768px/1024px | ok | ok |  ok | ok | ok |
 | PC | >960px | ok |  ok | ok | ok | ok |
@@ -40,10 +39,10 @@ Notes:
 
 ### Browsers
 
-| Browser | Home | Gallery | Find Us | Contact-Us | About |
+| Browser | Home | Gallery | Contact-Us | About |
 |---|---|---|---|---|---|
-| Firefox | ok | | ok | ok | 
-| Chrome  | ok | | ok | ok | 
+| Firefox |  | ok | ok | ok | 
+| Chrome  |  |ok | ok | ok | 
 
 ---
 ### Manual tests per User Story
@@ -94,10 +93,11 @@ Notes:
        - Image stays proportional to screen sizes and responds to change in resolution.  
     
 5. Gallery
-    
-    5.1 Discovered while testing
 
-    5.2 re-used image from carousel was updated, causing one of the gallery images to go missing
+    5.1 Refactoring page structure to improve responsiviness
+        - Improving spacing between sections
+        - reviewing grid system to keep headings aligned
+
 
 6. Merging Contact and find-us page
 
@@ -151,3 +151,10 @@ Notes:
 8. Header Section heading elements overlowing on Iphone 5 responsiveness check
 
     8.1 **Fix** reviewed content and elements, adjust to fit well on all screen sizes
+
+
+9. Gallery
+    
+    9.1 Discovered while testing
+
+    9.2 re-used image from carousel was updated, causing one of the gallery images to go missing
