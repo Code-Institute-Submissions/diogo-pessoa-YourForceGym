@@ -89,7 +89,7 @@ h5 {
 }
 
 .padding-defaults {
-    padding: 0.5rem 0.5rem 0.25rem;
+    padding: 0.75rem 0.75rem 0.75rem;
 }
 
 .no-padding {
@@ -109,9 +109,21 @@ h5 {
     margin: 0 auto;
 }
 
+.padding-top {
+    padding-top: 1rem;
+}
+
+.margin-top-sm {
+    margin-top: 1rem;
+}
+
+.quote-author {
+    text-underline-position:below;
+    font-style: italic;
+    text-decoration: underline;
+}
 
 /* paddings/margins/text/headings End */
-
 
 /* Header */
 
@@ -217,7 +229,8 @@ h5 {
 /*  Home */
 
 hr {
-    margin-top: 0.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
     border: 0.25rem solid #f5b301;
     width: 20%;
 }
