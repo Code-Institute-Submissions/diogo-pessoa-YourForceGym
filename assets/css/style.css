@@ -349,7 +349,6 @@ footer {
 
 
 /* medias */
-
 @media screen and (min-width:768px) {
     
     .sticky {
@@ -395,6 +394,4 @@ footer {
         margin: 0 auto;
     }
 }
-
-
 /* medias End */

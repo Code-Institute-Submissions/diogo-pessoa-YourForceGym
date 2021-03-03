@@ -28,7 +28,7 @@
 
 | Device | Screen Size  | Home  | Gallery |  Find Us | Contact | About |
 |---|---|---|---|---|---|---|
-| Iphone5 | 320px/568px | not_ok+ | not_ok**+ | not_ok+ | not_ok+ | ok |
+| Iphone5 | 320px/568px | not_ok+ | not_ok**+ | not_ok+ | ok | ok |
 | Iphone6 | 375px/667px | ok | ok | ok | ok | ok |
 | Ipad | 768px/1024px | ok | ok |  ok | ok | ok |
 | PC | >960px | ok |  ok | ok | ok | ok |
@@ -42,8 +42,8 @@ Notes:
 
 | Browser | Home | Gallery | Find Us | Contact-Us | About |
 |---|---|---|---|---|---|
-| Firefox | ok | | | ok | 
-| Chrome  | ok | | | ok | 
+| Firefox | ok | | ok | ok | 
+| Chrome  | ok | | ok | ok | 
 
 ---
 ### Manual tests per User Story
@@ -147,3 +147,7 @@ Notes:
     7.1 **Test** open about page in differen screen-sizes 
         
     7.2 **Fix** Refactoring of the classes section removing the h5 element from class `col` and improving responsiviness
+
+8. Header Section heading elements overlowing on Iphone 5 responsiveness check
+
+    8.1 **Fix** reviewed content and elements, adjust to fit well on all screen sizes
