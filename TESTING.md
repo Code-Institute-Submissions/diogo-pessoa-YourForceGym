@@ -7,10 +7,10 @@
 
 | File | Validator check  | screenshot| 
 |---|---|---|
-| index.html | ok | |
-| gallery.html | ok | [contact.html](https://github.com/diogo-pessoa/YourForceGym/blob/master/readme-files/testing/validator/gallery_validator.png)|
-| contact.html |  ok | [contact.html](https://github.com/diogo-pessoa/YourForceGym/blob/master/readme-files/testing/validator/contact_validator.png)|
-| about.html | ok |[about.html](https://github.com/diogo-pessoa/YourForceGym/blob/master/readme-files/testing/validator/about_validator.png)|
+| index.html | ok | [home](https://github.com/diogo-pessoa/YourForceGym/blob/master/readme-files/testing/validator/home_validator.png)|
+| gallery.html | ok | [gallery](https://github.com/diogo-pessoa/YourForceGym/blob/master/readme-files/testing/validator/gallery_validator.png)|
+| contact.html |  ok | [contact](https://github.com/diogo-pessoa/YourForceGym/blob/master/readme-files/testing/validator/contact_validator.png)|
+| about.html | ok | [about](https://github.com/diogo-pessoa/YourForceGym/blob/master/readme-files/testing/validator/about_validator.png)|
 
 
 #### CSS validator
@@ -27,15 +27,10 @@
 
 | Device | Screen Size  | Home  | Gallery |  Contact | About |
 |---|---|---|---|---|---|---|
-| Iphone5 | 320px/568px | not_ok+ | ok | ok | ok |
+| Iphone5 | 320px/568px | ok | ok | ok | ok |
 | Iphone6 | 375px/667px | ok | ok | ok | ok | ok |
 | Ipad | 768px/1024px | ok | ok |  ok | ok | ok |
 | PC | >960px | ok |  ok | ok | ok | ok |
-
-Notes:
-    
-    + At Iphone5 The header of the page is cut-off on width, see bug-fix section
-    **  jumping screen bug on Scroll down event
 
 ### Browsers
 
@@ -152,9 +147,14 @@ Notes:
 
     8.1 **Fix** reviewed content and elements, adjust to fit well on all screen sizes
 
-
 9. Gallery
     
     9.1 Discovered while testing
 
     9.2 re-used image from carousel was updated, causing one of the gallery images to go missing
+
+
+Notes:
+    
+    + At Iphone5 The header of the page is cut-off on width, see bug-fix section
+    **  jumping screen bug on Scroll down event
