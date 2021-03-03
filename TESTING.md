@@ -5,13 +5,13 @@
 #### HTML validator
 - [W3C HTML Validator](https://validator.w3.org/)
 
-| File | Validator check  | 
-|---|---|
-| index.html | ok |
-| gallery.html | ok |
-| findus.html |  ok |
-| contact.html |  ok |
-| about.html | ok |
+| File | Validator check  | screenshot| 
+|---|---|---|
+| index.html | ok | |
+| gallery.html | ok | |
+| findus.html |  ok ||
+| contact.html |  ok ||
+| about.html | ok |[about.html](https://github.com/diogo-pessoa/YourForceGym/blob/master/readme-files/testing/validator/About_validator.png)|
 
 
 #### CSS validator
@@ -28,7 +28,7 @@
 
 | Device | Screen Size  | Home  | Gallery |  Find Us | Contact | About |
 |---|---|---|---|---|---|---|
-| Iphone5 | 320px/568px | not_ok+ | not_ok**+ | not_ok+ | not_ok+ | not_ok+ |
+| Iphone5 | 320px/568px | not_ok+ | not_ok**+ | not_ok+ | not_ok+ | ok |
 | Iphone6 | 375px/667px | ok | ok | ok | ok | ok |
 | Ipad | 768px/1024px | ok | ok |  ok | ok | ok |
 | PC | >960px | ok |  ok | ok | ok | ok |
@@ -42,8 +42,8 @@ Notes:
 
 | Browser | Home | Gallery | Find Us | Contact-Us | About |
 |---|---|---|---|---|---|
-| Firefox | ok | | | | 
-| Chrome  | ok | | | | 
+| Firefox | ok | | | ok | 
+| Chrome  | ok | | | ok | 
 
 ---
 ### Manual tests per User Story
@@ -86,6 +86,12 @@ Notes:
        - I want to know which classes are available in the gym, With access to a time table.
        - timetable PDF button on about page
        - clicking on `check timetable` button open pdf on new tab
+       - Improving Element Spacing with better padding
+       - h5 element wasn't responsive on smaller resolutions
+
+    4.8 Improve responsiviness on **Meet our trainers** section 
+       - make sure trainer Bio fills space well when opening page on different screen sizes
+       - Image stays proportional to screen sizes and responds to change in resolution.  
     
 5. Gallery
     
@@ -95,12 +101,12 @@ Notes:
 
 ### Bug-fixes
 
-1. At Iphone5 The header of the page is cut-off on width, see bug-fix section
+1. At Iphone5 The header of the page is cut-off on width, see bug-fix section   
    
    1.1 **Test**
-
+   
    1.2 **Fix** 
-
+ 
 2. `find-us` link redirects to Visit-us page. 
     
     2.1 bug found anchor has no href destination;
@@ -129,3 +135,9 @@ Notes:
     6.2 **Test** The images on the carousel don't have a high enough resolution and appear pixelated on Larger screens
     
     6.3 **Fix** replaced images with higher resolution on large screens 
+
+7. for about page h5 on classes section was overflowing the width of the screen. 
+    
+    7.1 **Test** open about page in differen screen-sizes 
+        
+    7.2 **Fix** Refactoring of the classes section removing the h5 element from class `col` and improving responsiviness
