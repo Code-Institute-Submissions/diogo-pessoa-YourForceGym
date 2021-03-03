@@ -10,8 +10,8 @@
 | index.html | ok | |
 | gallery.html | ok | |
 | findus.html |  ok ||
-| contact.html |  ok ||
-| about.html | ok |[about.html](https://github.com/diogo-pessoa/YourForceGym/blob/master/readme-files/testing/validator/About_validator.png)|
+| contact.html |  ok | [contact.html](https://github.com/diogo-pessoa/YourForceGym/blob/master/readme-files/testing/validator/contact_validator.png|
+| about.html | ok |[about.html](https://github.com/diogo-pessoa/YourForceGym/blob/master/readme-files/testing/validator/about_validator.png)|
 
 
 #### CSS validator
@@ -98,6 +98,12 @@ Notes:
     5.1 Discovered while testing
 
     5.2 re-used image from carousel was updated, causing one of the gallery images to go missing
+
+6. Merging Contact and find-us page
+
+    6.1 **Testing** during manual testing it made sense to merge these pages together, as neither are heavy in content.
+    
+    6.2 Split contact page in two sections, adding the `Find Us` at the bottom with an `id='find-us'`. By leveraging the ID I can set the links to redirect the user straight to this Section.
 
 ### Bug-fixes
 
