@@ -26,7 +26,7 @@
 ### Responsiveness
 
 | Device | Screen Size  | Home  | Gallery |  Contact | About |
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 | Iphone5 | 320px/568px | ok | ok | ok | ok |
 | Iphone6 | 375px/667px | ok | ok | ok | ok | ok |
 | Ipad | 768px/1024px | ok | ok |  ok | ok | ok |
@@ -35,9 +35,9 @@
 ### Browsers
 
 | Browser | Home | Gallery | Contact-Us | About |
-|---|---|---|---|---|---|
-| Firefox |  | ok | ok | ok | 
-| Chrome  |  |ok | ok | ok | 
+|---|---|---|---|---|
+| Firefox | ok  | ok | ok | ok | 
+| Chrome  | ok |ok | ok | ok | 
 
 ---
 ### Manual tests per User Story
@@ -100,6 +100,37 @@
     
     6.2 Split contact page in two sections, adding the `Find Us` at the bottom with an `id='find-us'`. By leveraging the ID I can set the links to redirect the user straight to this Section.
 
+7. Links Test
+
+  7.1 - Menu links
+         
+|Link| index | gallery | Contact | About |opens in New_tab|
+|---|---|---|---|---|---|
+| Home | ok | ok |ok |ok |no|
+| Gallery | ok | ok |ok |ok |no|
+| Find Us | ok | ok |ok |ok |no|
+| Contact | ok | ok |ok |ok |no|
+| About | ok | ok |ok |ok |no|
+
+  7.2   Footer links
+|Link| index | gallery | Contact | About |opens in New_tab|
+|---|---|---|---|---|---|
+| Find Us | ok | ok |ok |ok |no|
+| Facebook | ok | ok |ok |ok |yes|
+| Twitter | ok | ok |ok |ok |yes|
+| Instagram | ok | ok |ok |ok |yes|
+
+
+7.3 Contact.html form links
+
+|Link| Contact | opens in New_tab|
+|---|---|---|
+| About Us | ok |no|
+| trainers| ok |no|
+| Free Classes| ok |no|
+| Gym amenities | ok |no|
+| here | ok |no|
+
 ### Bug-fixes
 
 1. At Iphone5 The header of the page is cut-off on width, see bug-fix section   
@@ -115,6 +146,7 @@
     2.2 **Test** Navigate to each page in Site click `Find us` in footer. Confirmed find-us link open correct path and doesn't pop user for a new tab.
   
     2.3 **Fix**: update the href attribute from element with proper `findus.html` path. Removed `target="_blank"` from anchor element.
+
 3. Reducing brigthness on yellow on site.
     
     3.1 As a developer I want a tone of yellow that keeps a good contrast with black, but is not to bright.
@@ -153,8 +185,3 @@
 
     9.2 re-used image from carousel was updated, causing one of the gallery images to go missing
 
-
-Notes:
-    
-    + At Iphone5 The header of the page is cut-off on width, see bug-fix section
-    **  jumping screen bug on Scroll down event
