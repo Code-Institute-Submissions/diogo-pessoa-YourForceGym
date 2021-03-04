@@ -133,11 +133,8 @@
 
 ### Bug-fixes
 
-1. At Iphone5 The header of the page is cut-off on width, see bug-fix section   
-   
-   1.1 **Test**
-   
-   1.2 **Fix** 
+1. At Iphone5 The header of the page is cut-off on width.
+   1.1 **Fix** changed the Col structure on the Header section to better organize Headings and improve responsiviness.
  
 2. `find-us` link redirects to Visit-us page. 
     
