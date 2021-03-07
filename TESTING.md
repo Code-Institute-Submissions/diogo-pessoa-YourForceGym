@@ -131,6 +131,38 @@
 | Gym amenities | ok |no|
 | here | ok |no|
 
+
+8. Sticky nav to page top 
+
+    8.1 **User story** As a developer I want to have the menu available on top of the page for ease of navigation. 
+
+    8.2 **Test** during tested Some pages would show bug on of jumping screen on the scroll down event. 
+
+    8.3 Added a div to wrap navbar and keep page structure the same on scroll down. 
+
+    8.4 Manual test by visiting each page and scrolling down on different browsers and resolutions.
+
+    Firefox
+    ---
+
+    | Device | Screen Size  | Home  | Gallery |  Contact | About | 
+    |---|---|---|---|---|---|
+    | Iphone5 | 320px/568px | ok | ok | ok | ok |
+    | Iphone6 | 375px/667px | ok | ok | ok | ok | ok |
+    | Ipad | 768px/1024px | ok | ok |  ok | ok | ok |
+    | PC | >960px | ok |  ok | ok | ok | ok |
+    ---
+    Chrome
+    ---
+
+    | Device | Screen Size  | Home  | Gallery |  Contact | About | 
+    |---|---|---|---|---|---|
+    | Iphone5 | 320px/568px | ok | ok | ok | ok |
+    | Iphone6 | 375px/667px | ok | ok | ok | ok | ok |
+    | Ipad | 768px/1024px | ok | ok |  ok | ok | ok |
+    | PC | >960px | ok |  ok | ok | ok | ok |
+        
+
 ### Bug-fixes
 
 1. At Iphone5 The header of the page is cut-off on width.

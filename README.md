@@ -118,4 +118,6 @@ All text content is fictional and authored by [me](https://github.com/diogo-pess
 - Bootstrap Modal dynamic image loading in Gallery uses code from: 
 [Stack Overflow](https://stackoverflow.com/questions/25023199/in-bootstrap-open-enlarge-image-in-modal#25023822). Author shared Snippet [here](https://jsfiddle.net/6CR2H/1/)
 
-- NavBar Sticky to top feature implemented from [w3schools](//https://www.w3schools.com/howto/howto_js_navbar_sticky.asp)
+- NavBar Sticky to top feature implemented from [w3schools](https://www.w3schools.com/howto/howto_js_navbar_sticky.asp)
+
+- Followed thread [Stack OverFlow](https://stackoverflow.com/questions/28864210/sticky-navigation-element-jumps-during-scroll) to apply fix.

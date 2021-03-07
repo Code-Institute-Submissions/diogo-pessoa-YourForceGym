@@ -214,13 +214,13 @@ h5 {
 
 .sticky {
     position: fixed;
-    top: 1.5rem;
+    top: -1rem;
     width: 100%;
     z-index:100;
 }
 
 .sticky + .content {
-    padding-top: 1rem;
+    padding-top: 4rem;
 }
 
 /* Header End */
@@ -349,12 +349,8 @@ footer {
 
 
 /* medias */
-@media screen and (min-width:768px) {
+@media screen and (min-width:600px) {
     
-    .sticky {
-        top: 0;
-    }
-
     .name {
         font-weight: 800;
         font-size: 2.5rem;
