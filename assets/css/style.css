@@ -223,6 +223,12 @@ h5 {
     padding-top: 4rem;
 }
 
+.wrap-navbar {
+    position:sticky;
+    z-index: 1;
+    width: 100%;
+}
+
 /* Header End */
 
 
@@ -370,6 +376,7 @@ footer {
         font-size: 1rem;
         padding: 0;
         text-align: center;
+        z-index: inherit;
     }
     .nav-link {
         padding-top: 1rem;

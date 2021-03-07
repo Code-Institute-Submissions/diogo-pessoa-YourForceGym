@@ -20,7 +20,9 @@ var sticky = navbar.offsetTop;
 function myFunction() {
   if (window.pageYOffset >= sticky) {
     navbar.classList.add("sticky");
+    navbar.classList.remove("wrap-navbar");
   } else {
+    navbar.classList.add("wrap-navbar");
     navbar.classList.remove("sticky");
   }
 }
